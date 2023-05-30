@@ -1,0 +1,1 @@
+web: gunicorn gambam.wsgi --log-file -
