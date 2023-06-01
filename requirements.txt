@@ -22,7 +22,7 @@ cycler==0.11.0
 Cython==0.29.30
 dataclasses==0.6
 defusedxml==0.7.1
-django==4.2.1
+Django==4.2.1
 django-allauth==0.54.0
 django-appconf==1.0.5
 django-compressor==4.3.1
